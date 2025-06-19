@@ -1,9 +1,9 @@
-# ViraLux – Light up the future of content before it happens
+# NeuroScribe – Light up the future of content before it happens
 
 > Category: Content Creation and Generation.
 
 ## 🧠 The Vision:
-ViraLux is a multi-agent, AI-powered content ecosystem designed to predict viral trends before they peak, automatically generate multimedia content, and distribute it across multiple platforms for maximum engagement. It bridges predictive analytics, human psychology, and creative automation to stay ahead of cultural moments in real-time.
+NeuroScribe is a multi-agent, AI-powered content ecosystem designed to predict viral trends before they peak, automatically generate multimedia content, and distribute it across multiple platforms for maximum engagement. It bridges predictive analytics, human psychology, and creative automation to stay ahead of cultural moments in real-time.
 
 ## ⚙️ System Architecture Description:
 
