@@ -27,7 +27,7 @@ NeuroScribe is a multi-agent, AI-powered content ecosystem designed to predict v
 
 🛰️ 1. Trend Analyzer Agent
 
-Input: BigQuery, Google Trends, YouTube Trending, Reddit Trending
+Input: BigQuery, Google Trends, YouTube Trending
 
 Function: Uses NLP + temporal modeling to detect rising signals and uses google search as a tool.
 
@@ -70,7 +70,7 @@ Tools: Google BigQuer, Google ADK,Cloud Functions
 
 ## Team Members
 Name: Aditya Katkar
-About Me: Undergrad Student at VIT. Love to make different/innovative stuff, just got into this because i love it cheers
+About Me: Undergrad Student at VIT. Love to make different/innovative stuff
 LinkedIn[]
 
 ## Conclusion
@@ -91,3 +91,22 @@ With tight integration into Google Cloud technologies like BigQuery, Vertex AI, 
 - *Continuously evolve through feedback loops*
 
 ## Future Scope
+
+1. Self-Evolving Agent :
+   - Agents learn from continuous engagement feedback.
+   - Over time, they develop adaptive personas—tailored to different verticals, platforms, or audience clusters.
+     
+2. Multimodal Content Intelligence :
+   - Incorporate real-time audio/visual trend detection (e.g., viral dance moves, visual styles, meme formats).
+   - It will help to predict more accurately in real-time of trend detection
+  
+3. Real-Time Influencer Co-Creation :
+   - Enable co-creation pipelines with influencers using AI-assisted collaboration tools (auto-script generation, AI visuals tailored to influencer brand).
+   - Auto-negotiate collaborations using AI agents with smart contracts or blockchain traceability for payments.
+
+4. Adding Quick feature :
+   - Adding feature that lets you build video and audio by just one click no need to make and waste time.
+   - Like give query and NeuroScribe will generate video of its own and will upload automatically to Youtube and you just need to sit back and watch.
+
+
+
