@@ -72,9 +72,10 @@ Tools: Google BigQuer, Google ADK,Cloud Functions
 ## Team Members
 Name: Aditya Katkar
 
-About Me: Undergrad Student at VIT. Love to make different/innovative stuff
+About Me: Undergrad Student at VIT. Love to make different/innovative stuff. Have experience in Ai agents and its workflow.
 
 [LinkedIn](https://www.linkedin.com/in/aditya-katkar-673930340)
+[Github](https://github.com/Addyk-24)
 
 ## Conclusion
 The Viral Content Prediction & Generation Engine represents the next evolution in content creation—automated, predictive, 
