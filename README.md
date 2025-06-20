@@ -29,7 +29,7 @@ NeuroScribe is a multi-agent, AI-powered content ecosystem designed to predict v
 
 Input: BigQuery, Google Trends, YouTube Trending
 
-Function: Uses NLP + temporal modeling to detect rising signals and uses google search as a tool.
+Function: uses google search as a tool, and makes strucutred output for trending content
 
 Output: Predicted trends (topics, memes, hashtags, keywords, etc.)
 
@@ -56,6 +56,7 @@ Monitors: Social sentiment, virality of negative feedback, user backlash
 
 Function: Triggers auto-responses, alerts human agents, suggests mitigation content
 
+Output: Strucutred output to warn creator about copyright, negative pr etc
 
 🎨 5. Content Specialist Agents
 
@@ -70,8 +71,10 @@ Tools: Google BigQuer, Google ADK,Cloud Functions
 
 ## Team Members
 Name: Aditya Katkar
+
 About Me: Undergrad Student at VIT. Love to make different/innovative stuff
-LinkedIn[]
+
+[LinkedIn](https://www.linkedin.com/in/aditya-katkar-673930340)
 
 ## Conclusion
 The Viral Content Prediction & Generation Engine represents the next evolution in content creation—automated, predictive, 
